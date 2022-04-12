@@ -1,0 +1,22 @@
+{
+  "name": "linkjobs",
+  "version": "1.0.0",
+  "description": "Aula inicial para os projetos do 4º período",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "Node"
+  ],
+  "author": "Rafael",
+  "license": "ISC",
+  "dependencies": {
+    "Express": "^3.0.1"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15"
+  }
+}
